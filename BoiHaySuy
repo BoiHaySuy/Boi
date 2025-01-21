@@ -57,4 +57,4 @@ w1:Button('Đóng Menu', function()
     end
 end) -- Text, Callback
 
-    w1:Label("Made by Bin")
+    w1:Label("Made by Boi")
