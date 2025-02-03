@@ -4,7 +4,7 @@
         "Auto Lay Heal",
         "BangGac",
         false,
-        function(toggled)
+        function(toggled)gggggg
             AutoLayBangGac = toggled
         end
     )
